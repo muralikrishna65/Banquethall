@@ -1,0 +1,10 @@
+o	Answer: Some basic Git commands include:
+	git init: Initialize a new Git repository.
+	git clone [url]: Clone a repository from a remote server.
+	git add [file]: Stage changes for the next commit.
+	git commit -m "message": Commit staged changes with a descriptive message.
+	git push: Push local commits to a remote repository.
+	git pull: Fetch and merge changes from a remote repository.
+	git status: Show the status of changes in the working directory.
+	git branch: List, create, or delete branches.
+	git merge [branch]: Merge changes from another branch into the current branch.
